@@ -1,1 +1,0 @@
-# supercoccinelle.github.io
